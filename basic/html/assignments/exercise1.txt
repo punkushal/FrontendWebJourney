@@ -1,0 +1,4 @@
+Change the title to "My First Page" and check that the browser tab changes.
+Inside <body>, add a big heading with your name.
+Under it, add a paragraph about what you want to learn.
+Add a comment that says "This is my first page." It should NOT show on the page.
